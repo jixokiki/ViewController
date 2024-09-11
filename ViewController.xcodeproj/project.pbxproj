@@ -16,6 +16,8 @@
 		76C096AF2B483CEB00F3BB2B /* ViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76C096AE2B483CEB00F3BB2B /* ViewControllerTests.swift */; };
 		76C096B92B483CEB00F3BB2B /* ViewControllerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76C096B82B483CEB00F3BB2B /* ViewControllerUITests.swift */; };
 		76C096BB2B483CEB00F3BB2B /* ViewControllerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76C096BA2B483CEB00F3BB2B /* ViewControllerUITestsLaunchTests.swift */; };
+		76C096CB2B4863BA00F3BB2B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76C0969E2B483CEA00F3BB2B /* ContentView.swift */; };
+		76C096CC2B4863BB00F3BB2B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76C0969E2B483CEA00F3BB2B /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -276,6 +278,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76C096CB2B4863BA00F3BB2B /* ContentView.swift in Sources */,
 				76C096AF2B483CEB00F3BB2B /* ViewControllerTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +289,7 @@
 			files = (
 				76C096B92B483CEB00F3BB2B /* ViewControllerUITests.swift in Sources */,
 				76C096BB2B483CEB00F3BB2B /* ViewControllerUITestsLaunchTests.swift in Sources */,
+				76C096CC2B4863BB00F3BB2B /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
